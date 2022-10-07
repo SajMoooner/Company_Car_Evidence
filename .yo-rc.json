@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "ac-auta",
+    "libraryId": "3c0b4ad7-0372-4bc2-abd2-ec15a31c0e93",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ac-auta",
+    "solutionShortDescription": "ac-auta description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

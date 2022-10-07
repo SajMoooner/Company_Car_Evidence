@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ac-auta-client-side-solution",
+    "id": "3c0b4ad7-0372-4bc2-abd2-ec15a31c0e93",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ac-auta description"
+      },
+      "longDescription": {
+        "default": "ac-auta description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ac-auta Feature",
+        "description": "The feature that activates elements of the ac-auta solution.",
+        "id": "03797a30-70ae-451e-b6a9-aa05d4ac027f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ac-auta.sppkg"
+  }
+}

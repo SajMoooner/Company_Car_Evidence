@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ac-auta-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/acAuta/AcAutaWebPart.js",
+          "manifest": "./src/webparts/acAuta/AcAutaWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {"jquery": {
+    "path": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js",
+    "globalName": "jQuery"
+ }},
+  "localizedResources": {
+    "AcAutaWebPartStrings": "lib/webparts/acAuta/loc/{locale}.js"
+  }
+}
