@@ -1,8 +1,8 @@
-# ac-auta
+# Company_Car_Evidence
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Projekt na správu firmených aut.
 
 [picture of the solution in action, if possible]
 
@@ -25,7 +25,7 @@ Short summary on functionality and used technologies.
 
 | Solution    | Author(s)                                               |
 | ----------- | ------------------------------------------------------- |
-| folder name | Author details (name, company, twitter alias with link) |
+| AC_Auta     | Šimon Ochotnický                                        |
 
 ## Version history
 
